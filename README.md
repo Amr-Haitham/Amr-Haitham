@@ -1,12 +1,16 @@
-<h1 align="center">Hey 👋 I'm Amr Shams</h1>
-
-<h3 align="center">Software Architect</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+%F0%9F%91%8B+I'm+Amr+Shams;Software+Architect;Building+Scalable+Systems;Clean+Code+Advocate" alt="Typing SVG" />
+</div>
 
 <p align="center">
   Building scalable digital solutions and specialized in high-performance architectures.
   <br />
   <strong>Explore my work: <a href="https://amrshams.com">amrshams.com</a></strong>
 </p>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Amr-Haitham&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" alt="profile views" />
+</div>
 
 ---
 
@@ -26,23 +30,37 @@
 
 ---
 
-### 🛠️ Featured Architecture
+### 🧠 Engineering Philosophy
+
 <div align="center">
   <table>
     <tr>
-      <td width="50%" valign="top">
-        <h4>🏦 Bank El Dhikr</h4>
-        <p>A high-performance digital remembrance tool built with Flutter and a focus on clean architecture for iOS and Android.</p>
-        <code>Flutter</code> <code>Dart</code> <code>CI/CD</code>
+      <td align="center" width="33%">
+        <b>Design for Change</b><br/>
+        <sub>Systems outlive their requirements. Build to evolve, not just to work.</sub>
       </td>
-      <td width="50%" valign="top">
-        <h4>📈 Patient Tracking System</h4>
-        <p>Architecture designed for secure, real-time healthcare data management and tracking.</p>
-        <code>Scalability</code> <code>Secure Data</code> <code>AWS</code>
+      <td align="center" width="33%">
+        <b>Clarity Over Cleverness</b><br/>
+        <sub>The best code is the code your future self can debug at 2 AM.</sub>
+      </td>
+      <td align="center" width="33%">
+        <b>Ship & Iterate</b><br/>
+        <sub>Done beats perfect. Perfection beats done only after it ships.</sub>
       </td>
     </tr>
   </table>
 </div>
+
+---
+
+### 🔭 Currently Exploring
+
+```
+📱  Flutter → Advanced state management & platform channels
+☁️  AWS      → Serverless architectures & cost optimization
+🔐  Security → Zero-trust design patterns for mobile & web
+🤖  AI/ML    → Integrating LLMs into production-grade systems
+```
 
 ---
 
@@ -52,6 +70,28 @@
   <img src="https://streak-stats.demolab.com?user=Amr-Haitham&theme=dark&hide_border=true" alt="streak graph" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amr-Haitham&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="top languages" />
+  <br /><br />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Amr-Haitham&theme=dark&hide_border=true&layout=compact" alt="wakatime stats" />
+</div>
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Amr-Haitham/Amr-Haitham/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Amr-Haitham/Amr-Haitham/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Amr-Haitham/Amr-Haitham/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+---
+
+### 💬 Dev Quote of the Day
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="random dev quote" />
 </div>
 
 ---
