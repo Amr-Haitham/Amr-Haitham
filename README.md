@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋 I'm Amr Ebrahem</h1>
+<h1 align="center">Hey 👋 I'm Amr Shams</h1>
 
 <h3 align="center">Software Architect</h3>
 
@@ -13,9 +13,7 @@
 ### 🚀 Tech Stack & Specializations
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,flutter,dart,tailwind,ts" height="60" alt="frontend stack" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase,aws,terraform,docker,graphql,githubactions" height="60" alt="infrastructure stack" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,flutter,dart,tailwind,ts,firebase,aws,terraform,docker,graphql,githubactions" height="60" alt="tech stack" />
 </div>
 
 ### 🌐 Connect with Me
@@ -31,11 +29,15 @@
 ### 📊 GitHub Insights
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amr-Haitham&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="top langs" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Amr-Haitham&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="github stats" />
-  <br />
-  <img src="https://streak-stats.demolab.com?user=Amr-Haitham&theme=tokyonight&hide_border=true" height="165" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Amr-Haitham&show_icons=true&theme=dark" alt="github stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amr-Haitham&layout=compact&theme=dark" alt="top languages" height="170" />
 </div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Amr-Haitham&theme=dark" alt="streak graph" />
+</div>
+
+---
 
 ### 🕹️ Contribution Activity
 
