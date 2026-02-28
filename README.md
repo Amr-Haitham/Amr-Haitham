@@ -29,11 +29,6 @@
 ### 📊 GitHub Insights
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amr-Haitham&show_icons=true&theme=dark&hide_border=true" alt="github stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amr-Haitham&layout=compact&theme=dark&hide_border=true" alt="top languages" height="170" />
-</div>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com?user=Amr-Haitham&theme=dark&hide_border=true" alt="streak graph" />
 </div>
 
@@ -43,9 +38,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Amr-Haitham/Amr-Haitham/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Amr-Haitham/Amr-Haitham/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Amr-Haitham/Amr-Haitham/output/pacman-contribution-graph.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Amr-Haitham/Amr-Haitham/main/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Amr-Haitham/Amr-Haitham/main/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Amr-Haitham/Amr-Haitham/main/pacman-contribution-graph.svg">
   </picture>
 </div>
 
