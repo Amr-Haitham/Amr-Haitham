@@ -31,8 +31,10 @@
 ### 📊 GitHub Insights
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Amr-Haitham&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
-  <img src="https://github-profile-trophy.vercel.app?username=Amr-Haitham&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8" height="150" alt="trophy graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amr-Haitham&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="top langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Amr-Haitham&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="github stats" />
+  <br />
+  <img src="https://streak-stats.demolab.com?user=Amr-Haitham&theme=tokyonight&hide_border=true" height="165" alt="streak graph" />
 </div>
 
 ### 🕹️ Contribution Activity
