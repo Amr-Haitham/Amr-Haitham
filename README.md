@@ -26,22 +26,32 @@
 
 ---
 
-### 📊 GitHub Insights
-
+### 🛠️ Featured Architecture
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Amr-Haitham&theme=dark&hide_border=true" alt="streak graph" />
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+        <h4>🏦 Bank El Dhikr</h4>
+        <p>A high-performance digital remembrance tool built with Flutter and a focus on clean architecture for iOS and Android.</p>
+        <code>Flutter</code> <code>Dart</code> <code>CI/CD</code>
+      </td>
+      <td width="50%" valign="top">
+        <h4>📈 Patient Tracking System</h4>
+        <p>Architecture designed for secure, real-time healthcare data management and tracking.</p>
+        <code>Scalability</code> <code>Secure Data</code> <code>AWS</code>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-### 🕹️ Contribution Activity
+### 📊 Engineering Stats
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Amr-Haitham/Amr-Haitham/main/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Amr-Haitham/Amr-Haitham/main/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Amr-Haitham/Amr-Haitham/main/pacman-contribution-graph.svg">
-  </picture>
+  <img src="https://streak-stats.demolab.com?user=Amr-Haitham&theme=dark&hide_border=true" alt="streak graph" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amr-Haitham&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="top languages" />
 </div>
 
 ---
