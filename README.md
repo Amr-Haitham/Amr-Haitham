@@ -69,9 +69,7 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Amr-Haitham&theme=dark&hide_border=true" alt="streak graph" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amr-Haitham&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="top languages" />
-  <br /><br />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Amr-Haitham&theme=dark&hide_border=true&layout=compact" alt="wakatime stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Amr-Haitham&theme=github_dark" alt="top languages" />
 </div>
 
 ---
