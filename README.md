@@ -29,12 +29,12 @@
 ### 📊 GitHub Insights
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amr-Haitham&show_icons=true&theme=dark" alt="github stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amr-Haitham&layout=compact&theme=dark" alt="top languages" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Amr-Haitham&show_icons=true&theme=dark&hide_border=true" alt="github stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amr-Haitham&layout=compact&theme=dark&hide_border=true" alt="top languages" height="170" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Amr-Haitham&theme=dark" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=Amr-Haitham&theme=dark&hide_border=true" alt="streak graph" />
 </div>
 
 ---
@@ -52,5 +52,5 @@
 ---
 
 <p align="center">
-  <i>"Architecture is about the important stuff. Whatever that is." — Ralph Johnson</i>
+  <i>"The only way to go fast, is to go well." — Robert C. Martin (Uncle Bob)</i>
 </p>
